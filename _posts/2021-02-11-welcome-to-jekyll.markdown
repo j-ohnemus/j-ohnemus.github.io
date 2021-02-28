@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my site johnemus.de!"
 date:   2021-02-11 22:30:17 +0100
 categories: jekyll update
 ---
