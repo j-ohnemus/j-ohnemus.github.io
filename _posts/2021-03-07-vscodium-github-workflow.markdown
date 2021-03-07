@@ -7,6 +7,6 @@ categories: jekyll update
 
 # hallo vscode ohne kram
 
-* vscodium aus repository installiert via anleitung von der website
-* github.io via anleitung von einer  ehemaligen entwicklerin von firefox for android eingerichtet
+* vscodium aus repository installiert via anleitung von der website | https://github.com/VSCodium/vscodium#install-with-package-manager
+* github.io via anleitung von einer  ehemaligen entwicklerin von firefox for android eingerichtet | https://www.emilykager.com/writing/2018/07/27/myo-website.html
 * dns und so angepasst für blog.johnemus.de
