@@ -30,8 +30,7 @@ twitter_username: hannesxjo
 github_username:  j-ohnemus
 
 # Build settings
-theme: minima:
-         skin: solarized-dark
+theme: minima
 plugins:
   - jekyll-feed
 
