@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "atom ist (m)ein neuer editor post?"
+date:   2021-03-20 19:18:17 +0100
+categories: jekyll update
+---
+
+# atom ist vielleicht (m)ein neuer editor :P
+
+Hier kommt dein Post über diesen tollen editor
+
+https://flight-manual.atom.io/getting-started/sections/installing-atom/
