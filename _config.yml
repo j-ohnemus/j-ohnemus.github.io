@@ -31,7 +31,7 @@ github_username:  j-ohnemus
 
 # Build settings
 theme: minima:
-  skin: solarized-dark
+         skin: solarized-dark
 plugins:
   - jekyll-feed
 
